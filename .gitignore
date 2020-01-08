@@ -1,2 +1,3 @@
 ignore.file
 second_ignore.file
+*.orig
