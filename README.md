@@ -15,6 +15,7 @@ Tada
 another line for rebase
 added from feature branch.
 emergency fix after stash.
+stash 1, multiple stashes
 ## Copyright
 2019 - 2020
 Emergency copyright change.
