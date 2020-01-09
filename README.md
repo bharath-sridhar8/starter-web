@@ -16,3 +16,4 @@ another line for rebase
 added from feature branch.
 ## Copyright
 2019 - 2020
+Emergency copyright change.
