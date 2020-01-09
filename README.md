@@ -14,6 +14,7 @@ This is all for purposes of learning.
 Tada
 another line for rebase
 added from feature branch.
+emergency fix after stash.
 ## Copyright
 2019 - 2020
 Emergency copyright change.
